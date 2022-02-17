@@ -1,5 +1,6 @@
 # beyond_rabbit (an MPC `SCALE-MAMBA` Implementation)
-__Batches removed to comply with anonymous submission__ 
+__Batches removed to comply with anonymous submission__. 
+
 A __Through the mirror__ full implementation. eprint to be added, shortly. This repository includes:
 
 * Basic random sampling using dabits in MAMBA. 
@@ -32,6 +33,6 @@ __removed to comply with anonymous submission__ (code has a team of mantainers)
 ## License
 ### Authors: 
 
-__removed to comply with anonymous submission__
+__removed to comply with anonymous submission__. 
 
 Licensed under the MIT license.
