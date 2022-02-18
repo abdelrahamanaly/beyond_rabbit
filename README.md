@@ -24,7 +24,7 @@ This is to the best of our knowledge the first implementation of any support for
 3. Do the same with the [`comparisons.py`](beyond_rabbit/Compiler/library.py). In this case, just append the contetent at the end of the namesake file in `SCALE-MAMBA`.  No importas are needed here. 
 4. Copy both remaining `.py` files __as is__ directly in the `Compiler` folder in `SCALE-MAMBA`. 
 5. Copy the tests folders in the `Programs` folder of your `SCALE-MAMBA` installation. 
-6.Copy the contents of the Bristol folder, into its namesake, in your local `SCALE-MAMBA` installation. 
+6. Copy the contents of the Bristol folder, into its namesake, in your local `SCALE-MAMBA` installation. 
 7. You can now run them and check all tests are in <span style='color:green'>green.</span> (NOT in <span style='color:red'>red.</span>)
 
 ## Contact Information:
