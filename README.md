@@ -1,5 +1,5 @@
 # beyond_rabbit (an MPC `SCALE-MAMBA` Implementation)
-__Batches removed to comply with anonymous submission__. 
+__Badges removed to comply with anonymous submission__. 
 
 A __Through the mirror__ full implementation. eprint to be added, shortly. This repository includes:
 
